@@ -17,8 +17,8 @@ end
 group :development do
   #gem 'custom_fields', path: '../custom_fields'
   # gem 'custom_fields', path: '../gems/custom_fields' # for Developers
-  gem 'custom_fields', github: 'locomotivecms/custom_fields'
-  # gem 'custom_fields', git: 'git://github.com/locomotivecms/custom_fields.git', branch: '2.0.0.rc' # Branch on Github
+  #gem 'custom_fields', github: 'locomotivecms/custom_fields'
+  gem 'custom_fields', git: 'git://github.com/locomotivecms/custom_fields.git', branch: 'master' # Branch on Github
 
   # gem 'locomotive-aloha-rails', path: '../gems/aloha-rails' # for Developers
   # gem 'locomotive-tinymce-rails', path: '../gems/tinymce-rails' # for Developers
